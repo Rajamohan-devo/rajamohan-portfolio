@@ -3,7 +3,7 @@
 A premium, modern personal portfolio website for **Raja Mohan**, a Python Full Stack Developer Fresher based in Chennai, India.
 
 ## 🚀 Live Demo
-[View Portfolio](https://rajmohan2004820-crypto.github.io/rajmohan-portfolio/)
+[View Portfolio](https://rajamohan-portfolio.vercel.app)
 
 ## ✨ Features
 - 🌙 Dark Theme with Glassmorphism
